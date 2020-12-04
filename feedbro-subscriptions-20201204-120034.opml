@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Info" text="Info">
+      <outline text="Newsletter Veille Data" title="Newsletter Veille Data" type="rss" 
+            xmlUrl="http://newsletter.datasama.com/?format=rss" htmlUrl="http://newsletter.datasama.com/"/>
+      <outline text="Korben" title="Korben" type="rss" 
+            xmlUrl="https://korben.info/feed" htmlUrl="https://korben.info"/>
+      <outline text="IS : Torii Security" title="IS : Torii Security" type="rss" 
+            xmlUrl="https://news.torii-security.fr/rss" htmlUrl="http://news.torii-security.fr/"/>
+      <outline text="Liens en vrac de sebsauvage" title="Liens en vrac de sebsauvage" type="rss" 
+            xmlUrl="https://sebsauvage.net/links/?do=rss" htmlUrl="https://sebsauvage.net/links/"/>
+      <outline text="le hollandais volant" title="le hollandais volant" type="rss" 
+            xmlUrl="https://lehollandaisvolant.net/rss.php" htmlUrl="https://lehollandaisvolant.net/"/>
+      <outline text="le hollandais volant" title="le hollandais volant" type="rss" 
+            xmlUrl="https://lehollandaisvolant.net/rss.php?mode=links" htmlUrl="https://lehollandaisvolant.net/?mode=links"/>
+      <outline text="Journal du hacker" title="Journal du hacker" type="rss" 
+            xmlUrl="https://www.journalduhacker.net/rss" htmlUrl="https://www.journalduhacker.net/"/>
+      <outline text="serveur410" title="serveur410" type="rss" 
+            xmlUrl="https://serveur410.com/feed/" htmlUrl="https://serveur410.com"/>
+  </outline>
+  <outline title="Yt" text="Yt">
+      <outline text="Jean-Marc Jancovici" title="Jean-Marc Jancovici" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNovJemYKcdKt7PDdptJZfQ" htmlUrl="https://www.youtube.com/channel/UCNovJemYKcdKt7PDdptJZfQ"/>
+      <outline text="Everyday Astronaut" title="Everyday Astronaut" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q" htmlUrl="https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q"/>
+      <outline text="Khaos Farbauti Ibn Oblivion" title="Khaos Farbauti Ibn Oblivion" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsRIv1fsbnQRIPKmUQbRzZg" htmlUrl="https://www.youtube.com/channel/UCsRIv1fsbnQRIPKmUQbRzZg"/>
+      <outline text="AstronoGeek" title="AstronoGeek" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5X4e8ScZI2AFd_vkjSoyoQ" htmlUrl="https://www.youtube.com/channel/UC5X4e8ScZI2AFd_vkjSoyoQ"/>
+      <outline text="DirtyBiology" title="DirtyBiology" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtqICqGbPSbTN09K1_7VZ3Q" htmlUrl="https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q"/>
+      <outline text="C&#39;est une autre histoire" title="C&#39;est une autre histoire" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKjDY4joMPcoRMmd-G1yz1Q" htmlUrl="https://www.youtube.com/channel/UCKjDY4joMPcoRMmd-G1yz1Q"/>
+      <outline text="Arnaud THIRY" title="Arnaud THIRY" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-ZkMlo7xMqvhXN5D5H5VuA" htmlUrl="https://www.youtube.com/channel/UC-ZkMlo7xMqvhXN5D5H5VuA"/>
+      <outline text="Clément FREZE - Mentaliste" title="Clément FREZE - Mentaliste" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY7klexd1qEqxgqYK6W7BVQ" htmlUrl="https://www.youtube.com/channel/UCY7klexd1qEqxgqYK6W7BVQ"/>
+      <outline text="Le Journal de l&#39;Espace" title="Le Journal de l&#39;Espace" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCypzG0nv9B65DwOLJ578rZQ" htmlUrl="https://www.youtube.com/channel/UCypzG0nv9B65DwOLJ578rZQ"/>
+      <outline text="Greg Guillotin" title="Greg Guillotin" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM1c1okZ-7cPV7BEZ-pzUGg" htmlUrl="https://www.youtube.com/channel/UCM1c1okZ-7cPV7BEZ-pzUGg"/>
+      <outline text="FEUILLAGE" title="FEUILLAGE" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGl2QLR344ry4Y20RV9dM3g" htmlUrl="https://www.youtube.com/channel/UCGl2QLR344ry4Y20RV9dM3g"/>
+      <outline text="MrMeeea" title="MrMeeea" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEEi1rclmzywXicV7JfPjWw" htmlUrl="https://www.youtube.com/channel/UCEEi1rclmzywXicV7JfPjWw"/>
+      <outline text="Officiel DEFAKATOR" title="Officiel DEFAKATOR" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCU0FhLr6fr7U9GOn6OiQHpQ" htmlUrl="https://www.youtube.com/channel/UCU0FhLr6fr7U9GOn6OiQHpQ"/>
+      <outline text="Captain Popcorn" title="Captain Popcorn" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZeyUZmGAyRLDfM2ir3q-OQ" htmlUrl="https://www.youtube.com/channel/UCZeyUZmGAyRLDfM2ir3q-OQ"/>
+      <outline text="Max Bird" title="Max Bird" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-4WUubuVGowG_R7gdgesPA" htmlUrl="https://www.youtube.com/channel/UC-4WUubuVGowG_R7gdgesPA"/>
+      <outline text="Le Grimoire D&#39;Arthur" title="Le Grimoire D&#39;Arthur" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWvuVpyH9gac5k-DsEdl3-A" htmlUrl="https://www.youtube.com/channel/UCWvuVpyH9gac5k-DsEdl3-A"/>
+  </outline>
+      <outline text="Hacking social" title="Hacking social" type="rss" 
+            xmlUrl="https://www.hacking-social.com/feed/" htmlUrl="https://www.hacking-social.com"/>
+</body>
+</opml>
