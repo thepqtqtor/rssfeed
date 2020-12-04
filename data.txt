@@ -1,0 +1,199 @@
+﻿{
+    "opml": {
+        "head": {
+            "title": "Feed Subscriptions"
+        },
+        "body": {
+            "outline": [
+                {
+                    "outline": [
+                        {
+                            "_text": "Newsletter Veille Data",
+                            "_title": "Newsletter Veille Data",
+                            "_type": "rss",
+                            "_xmlUrl": "http://newsletter.datasama.com/?format=rss",
+                            "_htmlUrl": "http://newsletter.datasama.com/"
+                        },
+                        {
+                            "_text": "Korben",
+                            "_title": "Korben",
+                            "_type": "rss",
+                            "_xmlUrl": "https://korben.info/feed",
+                            "_htmlUrl": "https://korben.info"
+                        },
+                        {
+                            "_text": "IS : Torii Security",
+                            "_title": "IS : Torii Security",
+                            "_type": "rss",
+                            "_xmlUrl": "https://news.torii-security.fr/rss",
+                            "_htmlUrl": "http://news.torii-security.fr/"
+                        },
+                        {
+                            "_text": "Liens en vrac de sebsauvage",
+                            "_title": "Liens en vrac de sebsauvage",
+                            "_type": "rss",
+                            "_xmlUrl": "https://sebsauvage.net/links/?do=rss",
+                            "_htmlUrl": "https://sebsauvage.net/links/"
+                        },
+                        {
+                            "_text": "le hollandais volant",
+                            "_title": "le hollandais volant",
+                            "_type": "rss",
+                            "_xmlUrl": "https://lehollandaisvolant.net/rss.php",
+                            "_htmlUrl": "https://lehollandaisvolant.net/"
+                        },
+                        {
+                            "_text": "le hollandais volant",
+                            "_title": "le hollandais volant",
+                            "_type": "rss",
+                            "_xmlUrl": "https://lehollandaisvolant.net/rss.php?mode=links",
+                            "_htmlUrl": "https://lehollandaisvolant.net/?mode=links"
+                        },
+                        {
+                            "_text": "Journal du hacker",
+                            "_title": "Journal du hacker",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.journalduhacker.net/rss",
+                            "_htmlUrl": "https://www.journalduhacker.net/"
+                        },
+                        {
+                            "_text": "serveur410",
+                            "_title": "serveur410",
+                            "_type": "rss",
+                            "_xmlUrl": "https://serveur410.com/feed/",
+                            "_htmlUrl": "https://serveur410.com"
+                        }
+                    ],
+                    "_title": "Info",
+                    "_text": "Info"
+                },
+                {
+                    "outline": [
+                        {
+                            "_text": "Jean-Marc Jancovici",
+                            "_title": "Jean-Marc Jancovici",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNovJemYKcdKt7PDdptJZfQ",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCNovJemYKcdKt7PDdptJZfQ"
+                        },
+                        {
+                            "_text": "Everyday Astronaut",
+                            "_title": "Everyday Astronaut",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6uKrU_WqJ1R2HMTY3LIx5Q",
+                            "_htmlUrl": "https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q"
+                        },
+                        {
+                            "_text": "Khaos Farbauti Ibn Oblivion",
+                            "_title": "Khaos Farbauti Ibn Oblivion",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsRIv1fsbnQRIPKmUQbRzZg",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCsRIv1fsbnQRIPKmUQbRzZg"
+                        },
+                        {
+                            "_text": "AstronoGeek",
+                            "_title": "AstronoGeek",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5X4e8ScZI2AFd_vkjSoyoQ",
+                            "_htmlUrl": "https://www.youtube.com/channel/UC5X4e8ScZI2AFd_vkjSoyoQ"
+                        },
+                        {
+                            "_text": "DirtyBiology",
+                            "_title": "DirtyBiology",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtqICqGbPSbTN09K1_7VZ3Q",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q"
+                        },
+                        {
+                            "_text": "C'est une autre histoire",
+                            "_title": "C'est une autre histoire",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKjDY4joMPcoRMmd-G1yz1Q",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCKjDY4joMPcoRMmd-G1yz1Q"
+                        },
+                        {
+                            "_text": "Arnaud THIRY",
+                            "_title": "Arnaud THIRY",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ZkMlo7xMqvhXN5D5H5VuA",
+                            "_htmlUrl": "https://www.youtube.com/channel/UC-ZkMlo7xMqvhXN5D5H5VuA"
+                        },
+                        {
+                            "_text": "Clément FREZE - Mentaliste",
+                            "_title": "Clément FREZE - Mentaliste",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY7klexd1qEqxgqYK6W7BVQ",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCY7klexd1qEqxgqYK6W7BVQ"
+                        },
+                        {
+                            "_text": "Le Journal de l'Espace",
+                            "_title": "Le Journal de l'Espace",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCypzG0nv9B65DwOLJ578rZQ",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCypzG0nv9B65DwOLJ578rZQ"
+                        },
+                        {
+                            "_text": "Greg Guillotin",
+                            "_title": "Greg Guillotin",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM1c1okZ-7cPV7BEZ-pzUGg",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCM1c1okZ-7cPV7BEZ-pzUGg"
+                        },
+                        {
+                            "_text": "FEUILLAGE",
+                            "_title": "FEUILLAGE",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGl2QLR344ry4Y20RV9dM3g",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCGl2QLR344ry4Y20RV9dM3g"
+                        },
+                        {
+                            "_text": "MrMeeea",
+                            "_title": "MrMeeea",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEEi1rclmzywXicV7JfPjWw",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCEEi1rclmzywXicV7JfPjWw"
+                        },
+                        {
+                            "_text": "Officiel DEFAKATOR",
+                            "_title": "Officiel DEFAKATOR",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCU0FhLr6fr7U9GOn6OiQHpQ",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCU0FhLr6fr7U9GOn6OiQHpQ"
+                        },
+                        {
+                            "_text": "Captain Popcorn",
+                            "_title": "Captain Popcorn",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZeyUZmGAyRLDfM2ir3q-OQ",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCZeyUZmGAyRLDfM2ir3q-OQ"
+                        },
+                        {
+                            "_text": "Max Bird",
+                            "_title": "Max Bird",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-4WUubuVGowG_R7gdgesPA",
+                            "_htmlUrl": "https://www.youtube.com/channel/UC-4WUubuVGowG_R7gdgesPA"
+                        },
+                        {
+                            "_text": "Le Grimoire D'Arthur",
+                            "_title": "Le Grimoire D'Arthur",
+                            "_type": "rss",
+                            "_xmlUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWvuVpyH9gac5k-DsEdl3-A",
+                            "_htmlUrl": "https://www.youtube.com/channel/UCWvuVpyH9gac5k-DsEdl3-A"
+                        }
+                    ],
+                    "_title": "Yt",
+                    "_text": "Yt"
+                },
+                {
+                    "_text": "Hacking social",
+                    "_title": "Hacking social",
+                    "_type": "rss",
+                    "_xmlUrl": "https://www.hacking-social.com/feed/",
+                    "_htmlUrl": "https://www.hacking-social.com"
+                }
+            ]
+        },
+        "_version": "1.0"
+    }
+}
